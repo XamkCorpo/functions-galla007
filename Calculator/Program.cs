@@ -121,7 +121,7 @@ namespace Calculator
                 else if (valinta == 4)
                     tulos = jaettu;                    
             }
-            return tulos;
+            return tulos; //
         }
         /// <summary>
         /// Valitsee sopivan merkin
